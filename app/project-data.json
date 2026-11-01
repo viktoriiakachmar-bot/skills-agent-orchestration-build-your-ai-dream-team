@@ -1,0 +1,52 @@
+{
+  "projects": [
+    {
+      "name": "Contributor Onboarding",
+      "owner": "Maya Chen",
+      "status": "On Track",
+      "recentActivity": "Reviewed the first-run guide and scheduled usability sessions.",
+      "priority": "High",
+      "summary": "A clearer welcome path that helps new contributors make their first meaningful change."
+    },
+    {
+      "name": "Release Health",
+      "owner": "Jordan Patel",
+      "status": "In Progress",
+      "recentActivity": "Connected deployment checks to the weekly release report.",
+      "priority": "High",
+      "summary": "A single, reliable view of release readiness, checks, and follow-up work."
+    },
+    {
+      "name": "Knowledge Base Refresh",
+      "owner": "Avery Brooks",
+      "status": "On Track",
+      "recentActivity": "Published updated troubleshooting articles for review.",
+      "priority": "Medium",
+      "summary": "Making the most useful project knowledge easier to discover and keep current."
+    },
+    {
+      "name": "Community Feedback Loop",
+      "owner": "Samira Okafor",
+      "status": "At Risk",
+      "recentActivity": "Waiting for final responses from the pilot feedback group.",
+      "priority": "Medium",
+      "summary": "Turning contributor feedback into a predictable, visible improvement cycle."
+    },
+    {
+      "name": "Automation Foundations",
+      "owner": "Luis Romero",
+      "status": "In Progress",
+      "recentActivity": "Added a draft workflow for routine issue triage.",
+      "priority": "Low",
+      "summary": "Reducing repetitive coordination so contributors can spend more time on impact."
+    },
+    {
+      "name": "Accessibility Review",
+      "owner": "Priya Nair",
+      "status": "On Track",
+      "recentActivity": "Completed keyboard-navigation checks for the contributor portal.",
+      "priority": "High",
+      "summary": "Ensuring project tools and documentation work well for every contributor."
+    }
+  ]
+}
